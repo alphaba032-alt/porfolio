@@ -23,7 +23,7 @@ with col1:
 
 
 with st.sidebar:
-    st.image("profil.jpeg",width=100)
+   
     st.subheader("🎓ALPHA AMADOU BA")
     st.subheader("🏠Adresse")
     st.header("Dakar")
